@@ -90,8 +90,7 @@
     }
   },
   "husky": {
-    "hooks": {
-    }
+    "hooks": {}
   },
   "ava": {
     "files": [
