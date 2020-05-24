@@ -1,4 +1,4 @@
-# Details
+## Details
 This project is made during the CSN-252 course led by Prof. Sandeep kumar.
 
 Team members:
