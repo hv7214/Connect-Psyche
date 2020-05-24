@@ -27,6 +27,7 @@ npm run dev
 ```
 Open web-browser at http://localhost:3000
 
-# Note
+##  Note
+
 1. It needs internet connection because we are using cloud database(mLab).
 2. Result make take some time(10-20 seconds), because we have taken *free* subscription of cloud database.
