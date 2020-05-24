@@ -1,3 +1,15 @@
+# Details
+This project is made during the CSN-252 course led by Prof. Sandeep kumar.
+
+Team members:
+1. Harshit Verma
+2. Ishan Pandey.
+3. Ayush Mangal.
+4. Ashish Ucheniya.
+5. Anuj Gupta.
+
+This is a personality based recommendation system which can be used in social networking sites. 
+
 ## Installation
 
 Download and install [nodejs](https://nodejs.org) and [git](https://git-scm.com/downloads)
